@@ -1,6 +1,6 @@
 name: resource_repository_storage
 description: Base classes for implementing storage for resource_repository package.
-version: 0.0.2
+version: 0.0.2+1
 homepage: https://github.com/NaikSoftware/resource_repository_storage
 
 environment:
