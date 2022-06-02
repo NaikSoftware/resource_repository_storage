@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2022 Score Counter
- * 2020-2021 NaikSoftware, drstranges, MagTuxGit
+ * Copyright (c) Resource Repository
+ * 2020-2022 drstranges, NaikSoftware, MagTuxGit
  */
 
 library resource_repository_storage;
